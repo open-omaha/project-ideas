@@ -43,3 +43,11 @@ If you don't see an idea listed, [add a new one](https://github.com/open-omaha/p
 - Make a status update to your issues at least once a month to keep everyone informed. If we don't hear from you after some time, we'll assume you've moved on and ask others to take the lead.
 - If nobody's talking yet, it might mean your idea needs more explanation. 
 - If you're willing to be the champion of a project, you should let one of the [project leads](mailto:) know. Github is the platform we're using to collect and vet ideas and convert them into [active projects](https://github.com/open-omaha/project-ideas/). Once a project becomes active, we'll help you set up a repository on the Open Omaha Github organization so you can begin collaborating. We'll continue using the Issues feature on your own project repo to flag obstacles, opportunities, and answer questions. We will also add the project repo link to your idea issue and close it, indicating your graduation from idea to active project.
+
+## Core Team
+
+- Jason Heppler ([@hepplerj](http://github.com/hepplerj))
+
+## License
+
+Non-software content in this project is licensed under a [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
