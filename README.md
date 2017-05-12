@@ -20,6 +20,8 @@ Open Omaha is an open source organization. We make our projects freely and openl
 
 We hope you'll find what you're looking for, but if you need help feel free to get in touch with us! 
 
+Take note of our [Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).
+
 ## How To Propose or Discuss Project Ideas
 
 [GitHub Issues](https://guides.github.com/features/issues/) work just like any other commenting system on the Internet. 
